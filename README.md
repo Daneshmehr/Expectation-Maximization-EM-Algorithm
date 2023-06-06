@@ -1,4 +1,4 @@
-Expectation-Maximization-EM-Algorithm-Mixture-Models
+Expectation Maximization (EM) Algorithm and Mixture Models
 
 - Generate data from a "mixture model"
 
