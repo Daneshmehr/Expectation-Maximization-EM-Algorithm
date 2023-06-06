@@ -1,3 +1,5 @@
+Expectation-Maximization-EM-Algorithm-Mixture-Models
+
 - Generate data from a "mixture model"
 
 - Implement the K-means clustering algorithm and apply it to the data
